@@ -1,3 +1,0 @@
-use railwayGateTimingDB
-
-db.timings.insertMany([	{		station: "chennai",		openingTime: "7:00 am",		closingTime: "8:00 pm"	},	{		station: "mumbai",		openingTime: "6:30 am",		closingTime: "7:30 pm"	},	{		station: "delhi",		openingTime: "6:00 am",		closingTime: "7:00 pm"	}])
